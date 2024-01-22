@@ -1,2 +1,1 @@
-# pytorch-neural-transfer
-Neural Style Transfer using Pytorch
+Reference: https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
